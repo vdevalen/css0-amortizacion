@@ -71,9 +71,9 @@ header{
 .tablas{
     align-items: center;
     background-color:#00369c;
-    padding: 10px;
-    margin: auto;
-    margin-top: 30px;
+    padding: 0 50px;
+    margin: 400px;
+    margin-top: 10px;
     border-radius: 10px;
     color: white;
     margin-bottom:10px ;
@@ -82,11 +82,11 @@ header{
 }
 
 th, tr{
-    border: solid 1px black;
+    /* border: solid px black; */
     padding: 1%;
     padding: 20px;
     width: 20px;
-    height: 20px;
+    height: 0px;
     }
     
     thead{
